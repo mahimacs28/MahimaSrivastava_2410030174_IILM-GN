@@ -61,8 +61,8 @@ The goal of this project is to enhance cybersecurity by automatically detecting 
 
 ---
 ## 👨‍💻 Developed By
-Mahima Srivastava
-IILM University, Greater Noida
+- Mahima Srivastava
+**IILM University, Greater Noida**
 
 
 ## 🚀 Future Scope
