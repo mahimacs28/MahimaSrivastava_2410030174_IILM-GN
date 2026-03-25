@@ -60,7 +60,16 @@ The goal of this project is to enhance cybersecurity by automatically detecting 
 - Summary metrics display
 
 ---
+## 👨‍💻 Developed By
+Mahima Srivastava
+IILM University, Greater Noida
 
+## 🚀 Future Scope
+Real-time cloud deployment
+Integration with live network traffic
+Advanced deep learning models
+
+---
 ## ▶️ How to Run the Project
 
 1. Install dependencies:
@@ -68,13 +77,3 @@ The goal of this project is to enhance cybersecurity by automatically detecting 
 pip install -r requirements.txt
 2. Run the application:
 streamlit run app.py
-
-👨‍💻 Developed By
-
-Mahima Srivastava
-IILM University, Greater Noida
-
-🚀 Future Scope
-Real-time cloud deployment
-Integration with live network traffic
-Advanced deep learning models
