@@ -66,9 +66,9 @@ The goal of this project is to enhance cybersecurity by automatically detecting 
 
 
 ## 🚀 Future Scope
-Real-time cloud deployment
-Integration with live network traffic
-Advanced deep learning models
+- Real-time cloud deployment
+- Integration with live network traffic
+- Advanced deep learning models
 
 ---
 ## ▶️ How to Run the Project
