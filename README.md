@@ -64,6 +64,7 @@ The goal of this project is to enhance cybersecurity by automatically detecting 
 Mahima Srivastava
 IILM University, Greater Noida
 
+
 ## 🚀 Future Scope
 Real-time cloud deployment
 Integration with live network traffic
